@@ -1,0 +1,13 @@
+.build/
+.swiftpm/
+.DS_Store
+SeeEverything.app/
+*.zip
+*.dmg
+*.db
+*.db.tmp
+
+# Local Windows reference binaries
+Everything.exe
+Everything.ini
+Everything.lng
